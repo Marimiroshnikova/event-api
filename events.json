@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "photo": "https://i.pinimg.com/474x/7a/41/37/7a4137081345455c657691c8b114b53e.jpg",
+    "title": "Tech Startup Meetup",
+    "sphere": "Technology",
+    "description": "A networking event for startups, investors, and tech enthusiasts.",
+    "location": "Tbilisi, Freedom Square",
+    "time": "2024-05-10 18:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 2,
+    "photo": "https://i.pinimg.com/474x/e1/4e/bd/e14ebd1396c089ca5d97d0e53a6cd3c5.jpg",
+    "title": "Data Analysis Workshop",
+    "sphere": "Data Science",
+    "description": "Hands-on workshop on data analysis tools and techniques.",
+    "location": "Tbilisi, Rustaveli Avenue",
+    "time": "2024-05-15 10:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 3,
+    "photo": "https://i.pinimg.com/474x/4c/8d/20/4c8d203b3c6cd74308b193b1dd2f79df.jpg",
+    "title": "Cybersecurity Conference",
+    "sphere": "Cybersecurity",
+    "description": "Experts discuss the latest cybersecurity challenges.",
+    "location": "Batumi, Seaside",
+    "time": "2024-05-20 09:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 4,
+    "photo": "https://i.pinimg.com/474x/6f/13/75/6f1375525387ffa02572d2527c8e3940.jpg",
+    "title": "Artificial Intelligence Forum",
+    "sphere": "Artificial Intelligence",
+    "description": "Discussions on AI trends and ethical considerations.",
+    "location": "Kutaisi, Central Park",
+    "time": "2024-05-25 14:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 5,
+    "photo": "https://i.pinimg.com/474x/f7/40/6c/f7406c511ef9125dd60dda2fcdd3562e.jpg",
+    "title": "Software Development Conference",
+    "sphere": "Software Development",
+    "description": "Latest trends and innovations in software development.",
+    "location": "Tbilisi, Technopark",
+    "time": "2024-06-01 11:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 6,
+    "photo": "https://i.pinimg.com/474x/9c/80/a0/9c80a048baa05e5f60654baf64285a85.jpg",
+    "title": "Web Design Workshop",
+    "sphere": "Web Design",
+    "description": "Learn modern web design techniques and tools.",
+    "location": "Batumi, Sheraton Metechi",
+    "time": "2024-06-05 15:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 7,
+    "photo": "https://i.pinimg.com/474x/79/c5/9f/79c59fb613eb5018e128cdb68b768ba2.jpg",
+    "title": "Mobile App Development Contest",
+    "sphere": "Mobile Apps",
+    "description": "Create an innovative mobile app and win a prize!",
+    "location": "Kutaisi, Akaki Tsereteli State University",
+    "time": "2024-06-10 10:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 8,
+    "photo": "https://i.pinimg.com/474x/5d/2d/74/5d2d74556868a7825d13fabb30911b60.jpg",
+    "title": "IT Project Management Seminar",
+    "sphere": "IT Management",
+    "description": "Principles and methods of effective IT project management.",
+    "location": "Tbilisi, Courtyard Marriott Hotel",
+    "time": "2024-06-15 12:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 9,
+    "photo": "https://i.pinimg.com/474x/81/22/e0/8122e0d0229f91bab0d7762dd2020f3b.jpg",
+    "title": "Cloud Technologies Conference",
+    "sphere": "Cloud Technologies",
+    "description": "Experts discuss the future of cloud computing.",
+    "location": "Tbilisi, Expo Georgia",
+    "time": "2024-06-20 09:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 10,
+    "photo": "https://i.pinimg.com/474x/57/50/75/57507571bef4bdb65b59bac4782f8dd3.jpg",
+    "title": "Cybersecurity Practice",
+    "sphere": "Cybersecurity",
+    "description": "Hands-on exercises to improve cybersecurity skills.",
+    "location": "Batumi, Batumi International University",
+    "time": "2024-06-25 14:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 11,
+    "photo": "https://i.pinimg.com/474x/69/42/10/694210334e310d93597c5b6bbb7629b6.jpg",
+    "title": "Data Visualization Workshop",
+    "sphere": "Data Science",
+    "description": "Learn effective data visualization techniques.",
+    "location": "Tbilisi, Ilia State University",
+    "time": "2024-07-01 10:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 12,
+    "photo": "https://i.pinimg.com/474x/70/07/d1/7007d1f512bf56a52cbdb0aa25b539f3.jpg",
+    "title": "Web Programming Basics",
+    "sphere": "Web Programming",
+    "description": "Introductory course to web programming.",
+    "location": "Kutaisi, Kutaisi Technological University",
+    "time": "2024-07-05 16:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 13,
+    "photo": "https://i.pinimg.com/474x/99/25/72/992572fd8c0817b71709a1840ed160b2.jpg",
+    "title": "Mobile Game Development",
+    "sphere": "Mobile Games",
+    "description": "Create your first mobile game!",
+    "location": "Tbilisi, Free University",
+    "time": "2024-07-10 11:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 14,
+    "photo": "https://i.pinimg.com/474x/44/66/1a/44661a14d670fd430d8bdceedeee3949.jpg",
+    "title": "IT Startup Competition",
+    "sphere": "Tech Startups",
+    "description": "Pitch your startup idea and get funding!",
+    "location": "Batumi, Radisson Blu Hotel",
+    "time": "2024-07-15 09:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 15,
+    "photo": "https://i.pinimg.com/474x/25/5a/14/255a145af9a14a1b29f32761989ccb1d.jpg",
+    "title": "E-commerce Conference",
+    "sphere": "E-commerce",
+    "description": "Trends and strategies in e-commerce.",
+    "location": "Tbilisi, Sheraton",
+    "time": "2024-07-20 13:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 16,
+    "photo": "https://i.pinimg.com/474x/9f/f8/25/9ff825f0b7221fcfa28da6965aecf65e.jpg",
+    "title": "Digital Marketing Workshop",
+    "sphere": "Digital Marketing",
+    "description": "Learn digital marketing techniques and tools.",
+    "location": "Kutaisi, #41 school",
+    "time": "2024-07-25 15:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 17,
+    "photo": "https://i.pinimg.com/474x/a1/b3/95/a1b395faa9727ce31ac20709c71ab9f1.jpg",
+    "title": "UX/UI Design Workshop",
+    "sphere": "UX/UI Design",
+    "description": "Learn the principles of user-centered design.",
+    "location": "Tbilisi, Fabrika",
+    "time": "2024-07-30 10:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 18,
+    "photo": "https://i.pinimg.com/474x/af/dd/c6/afddc6372b7b195d14e81aace6305c76.jpg",
+    "title": "Big Data Analytics Seminar",
+    "sphere": "Big Data",
+    "description": "Learn how to analyze large datasets.",
+    "location": "Batumi, Europe Square",
+    "time": "2024-08-05 12:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 19,
+    "photo": "https://i.pinimg.com/474x/a2/90/b8/a290b886051e68dbc7ccb2ef8ffe564c.jpg",
+    "title": "IT Career Fair",
+    "sphere": "IT",
+    "description": "Meet potential employers in the IT industry.",
+    "location": "Tbilisi, Sports Palace",
+    "time": "2024-08-10 09:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  },
+  {
+    "id": 20,
+    "photo": "https://i.pinimg.com/474x/6c/a0/13/6ca013d190024932dce575ee36a32750.jpg",
+    "title": "Tech Innovation Summit",
+    "sphere": "Technology",
+    "description": "Discussions on the latest tech innovations.",
+    "location": "Kutaisi, Debi",
+    "time": "2024-08-05 12:00",
+    "link": "https://www.eventbrite.com/d/georgia--tbilisi--1108805945/tech-events/"
+  }
+]
